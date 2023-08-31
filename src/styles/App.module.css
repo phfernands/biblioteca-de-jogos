@@ -1,0 +1,17 @@
+#app {
+  padding: 3rem 4rem;
+}
+
+h1 {
+  margin-bottom: 3rem;
+}
+
+.divGamesAdded {
+  margin-top: 4rem;
+}
+
+.divGames {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3rem;
+}
